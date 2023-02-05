@@ -8,6 +8,13 @@ import styles from "./PetDetails.module.css";
 /* hooks */
 import useFlashMessage from "../../../hooks/useFlashMessage";
 
+window.onload = function () {
+  if (!window.location.hash) {
+    window.location = window.location + "#loaded";
+    window.location.reload();
+  }
+};
+
 function PetDetails() {
   const [pet, setPet] = useState({});
   const { id } = useParams();

@@ -1,7 +1,9 @@
 const mongoose = require('mongoose')
 
 async function main() {
-    await mongoose.connect("mongodb://0.0.0.0:27017/getpet");
+    await mongoose.connect(
+      "mongodb+srv://deploy:uploaddeploy@cluster0.xgwsnin.mongodb.net/?retryWrites=true&w=majority"
+    );
     console.log('Conectou ao Mongoose')
 }
 

@@ -63,7 +63,8 @@ The following tools were used in the construction of the project:
 - **[Event](https://github.com/browserify/events#readme)**
 - **[React-icons](https://react-icons.github.io/react-icons/)**
 
-> See the file [package.json](https://github.com/BrunoColpani/Get_A_Pet/blob/main/front/package.json)
+> See the file [package.json]
+(https://github.com/MikaelKawam/Get-A-Pet/blob/main/frontend/package.json)
 #### [](https://github.com/tgmarinho/Ecoleta#server-nodejs--typescript)**Back-end** ([NodeJS](https://nodejs.org/en/))
 
 - **[Express](https://expressjs.com/)**
@@ -74,7 +75,7 @@ The following tools were used in the construction of the project:
 - **[Multer](https://github.com/expressjs/multer)**
 - **[mongoose](https://mongoosejs.com/)**
 
-> See the file [package.json](https://github.com/BrunoColpani/Get_A_Pet/blob/main/backend/package.json)
+> See the file [package.json](https://github.com/MikaelKawam/Get-A-Pet/blob/main/backend/package.json)
 #### [](https://github.com/tgmarinho/Ecoleta#utilit%C3%A1rios)**Utilities**
 
 - Editor: **[Visual Studio Code](https://code.visualstudio.com/)** → Extensions: **[SQLite](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite)**
